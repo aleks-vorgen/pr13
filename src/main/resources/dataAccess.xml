@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE datasources SYSTEM "dataAccessSchema.dtd">
+<datasources>
+    <datasource>
+        <source-name>DataAccess</source-name>
+        <connection-url>jdbc:oracle:thin:@//localhost:1521/XEPDB1</connection-url>
+        <driver-class>oracle.jdbc.OracleDriver</driver-class>
+        <user-name>pr12</user-name>
+        <password>lyoha222</password>
+    </datasource>
+</datasources>
